@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RTwpVNgUYRyL2vk2cFXF4qj33qP/uzCAw7rd5W3+7d0=",
+  "Source": "simpleApiRest",
+  "BasePath": "_content/simpleApiRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
